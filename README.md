@@ -1,25 +1,3 @@
-## README
+## Link to presentation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# action_cable_demo
+https://docs.google.com/presentation/d/1nTRdg9hxSkxD93PIPzI-blfWuKAtXgW3TQFze9ry9RA/pub?start=false&loop=false&delayms=3000
